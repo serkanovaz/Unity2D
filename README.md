@@ -17,9 +17,3 @@ Unity ortamında geliştirilmiş yapay zeka destekli 2D tank savaş oyunu. Biri 
  * Devriye bölgesine girildiğinde rakip tanklar algılar ve sürekli sizi yok etmeye çalışır.
  * Rakip tankların mermileri kendi takım arkadaşlarına isabet etmesi durumunda isabet alan tankın canı azalır. 
  * Geliştirme Tarihi : 2019
-
-
- 
- 
-
- 
